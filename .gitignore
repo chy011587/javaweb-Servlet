@@ -1,0 +1,6 @@
+# 项目排除路径
+/cookie/target/
+/request/target/
+/response/target/
+/servlet01/target/
+/servlet02/target/
